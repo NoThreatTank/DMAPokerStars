@@ -1,4 +1,4 @@
-# DMAPokerSTars
+# DMAPokerStars
 Simple DMA ESP For PokerStars
 
 ## Showcase
@@ -25,4 +25,4 @@ All the other offsets are labelled with their class name and fieldname, just sea
 * [MemProcFS](https://github.com/ufrisk/MemProcFS)
 * [UnnamedZ03](https://github.com/UnnamedZ03/DBD-external-base)
 * [DMALibrary](https://github.com/Metick/DMALibrary/tree/Master)
-* [ImGui] (https://github.com/ocornut/imgui/tree/master)
+* [ImGui](https://github.com/ocornut/imgui/tree/Master)
